@@ -1,2 +1,3 @@
 # Asgard
 love world
+embassy
