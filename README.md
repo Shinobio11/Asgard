@@ -6,3 +6,4 @@ adding
 my
 seed
 phrase
+now
