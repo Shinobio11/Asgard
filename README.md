@@ -6,5 +6,5 @@ adding
 my
 seed
 phrase
-now
+now gonna
 are you
